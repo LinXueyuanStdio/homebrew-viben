@@ -4,15 +4,28 @@ Homebrew formulae for [Viben](https://github.com/LinXueyuanStdio/viben) - Orches
 
 ## Installation
 
+### CLI Tool (Node.js)
+
 ```bash
 brew tap LinXueyuanStdio/viben
 brew install viben
 ```
 
+### Desktop App (macOS)
+
+```bash
+brew tap LinXueyuanStdio/viben
+brew install --cask viben
+```
+
 ## One-liner
 
 ```bash
+# CLI
 brew install LinXueyuanStdio/viben/viben
+
+# Desktop App
+brew install --cask LinXueyuanStdio/viben/viben
 ```
 
 ## Other Installation Methods
