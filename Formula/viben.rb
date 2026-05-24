@@ -1,8 +1,8 @@
 class Viben < Formula
   desc "Orchestrate AI agent clusters in your local workspace"
   homepage "https://github.com/LinXueyuanStdio/viben"
-  url "https://registry.npmjs.org/viben/-/viben-1.2.6.tgz"
-  sha256 "d7b71eb203221f8a617ec0333e01cf6ec7393f10feca6306a9b502714107caf0"
+  url "https://registry.npmjs.org/viben/-/viben-1.2.7.tgz"
+  sha256 "534441d144677bd0fbe5f288c6f49536dc319f586e9a7b61097ee1b9ceb88f34"
   license "MIT"
 
   depends_on "node"
